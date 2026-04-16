@@ -151,7 +151,7 @@ O comportamento do LED é invertido por característica do ESP01S.
 
 ------------------------------------------------------------------------
 
-### 🔴 Reconexão
+### 🔴 Reconexão (Próxima feature)
 
 -   O ESP não possui reconexão automática implementada
 -   Pode travar caso perca conexão Wi-Fi ou MQTT
@@ -167,13 +167,13 @@ O comportamento do LED é invertido por característica do ESP01S.
 
 ------------------------------------------------------------------------
 
-## 🚀 Possíveis Melhorias
+## 🚀 Possíveis Features
 
 -   🔐 Autenticação MQTT
 -   🔄 Reconexão automática no ESP
 -   📦 Suporte a múltiplos dispositivos
 -   ☁️ Integração com serviços em nuvem
--   📱 Desenvolvimento de app próprio
+-   📱 Integração com a siri
 
 ------------------------------------------------------------------------
 
@@ -197,6 +197,3 @@ evoluir para:
 
 ------------------------------------------------------------------------
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
