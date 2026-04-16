@@ -33,6 +33,12 @@ MQTT.
 
 ------------------------------------------------------------------------
 
+##**Fluxo do Node-red**
+
+<img width="921" height="546" alt="image" src="https://github.com/user-attachments/assets/3a23c617-7017-4f95-9a5a-4f50ef0a8aee" />
+
+------------------------------------------------------------------------
+
 ## 📡 Comunicação MQTT
 
 ### 📤 Tópico
@@ -125,7 +131,6 @@ if msg == b"true":
 elif msg == b"false":
     led.on()
 ```
-
 ------------------------------------------------------------------------
 
 ## ⚠️ Pontos Importantes
